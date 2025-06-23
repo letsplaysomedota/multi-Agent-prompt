@@ -17,5 +17,4 @@ Python, AutoGen, OpenAI API
 ## Getting Started
 Clone this repository and run the notebook files to explore the code and results.
 
-```bash
-git clone https://github.com/babyleeeeeee/multi-Agent-prompt.git
+
